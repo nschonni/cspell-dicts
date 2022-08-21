@@ -3,6 +3,27 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.3.0](https://github.com/nschonni/cspell-dicts/compare/@cspell/dict-software-terms-v2.2.3...@cspell/dict-software-terms@2.3.0) (2022-08-21)
+
+
+### Features
+
+* add ulid ([#1260](https://github.com/nschonni/cspell-dicts/issues/1260)) ([8687ba6](https://github.com/nschonni/cspell-dicts/commit/8687ba60882134db8d845631bffdea9056baff37))
+
+
+### Updates and Bug Fixes
+
+* Add "chainable" to the software terms ([#1372](https://github.com/nschonni/cspell-dicts/issues/1372)) ([b647c49](https://github.com/nschonni/cspell-dicts/commit/b647c49151c7420662675945d5ae0cbd8cfebbb3))
+* add `launchdarkly` to software-tools.txt ([#1327](https://github.com/nschonni/cspell-dicts/issues/1327)) ([e16bf44](https://github.com/nschonni/cspell-dicts/commit/e16bf448c485966533bfbd168b5fe46cc7b1d316))
+* Add several tech company names and their tools ([5648103](https://github.com/nschonni/cspell-dicts/commit/5648103e6f78b68a00f4ef80624335cf0a9e98c5))
+
+
+### Miscellaneous
+
+* release main ([#1299](https://github.com/nschonni/cspell-dicts/issues/1299)) ([f4a35d6](https://github.com/nschonni/cspell-dicts/commit/f4a35d63e2fda4031434213f4bbe78c34917746d))
+* release main ([#1320](https://github.com/nschonni/cspell-dicts/issues/1320)) ([ef96333](https://github.com/nschonni/cspell-dicts/commit/ef963333bea559bd4aa9ab5eb26c3fc4033acfb1))
+* release main ([#1374](https://github.com/nschonni/cspell-dicts/issues/1374)) ([b5ad274](https://github.com/nschonni/cspell-dicts/commit/b5ad2745a63e78d01d1235fb15c615acb2174f33))
+
 ## [2.2.3](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-software-terms@2.2.2...@cspell/dict-software-terms@2.2.3) (2022-08-21)
 
 

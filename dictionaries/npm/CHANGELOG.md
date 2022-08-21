@@ -3,6 +3,27 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.2.0](https://github.com/nschonni/cspell-dicts/compare/@cspell/dict-npm-v3.1.2...@cspell/dict-npm@3.2.0) (2022-08-21)
+
+
+### Features
+
+* add ulid ([#1260](https://github.com/nschonni/cspell-dicts/issues/1260)) ([8687ba6](https://github.com/nschonni/cspell-dicts/commit/8687ba60882134db8d845631bffdea9056baff37))
+
+
+### Updates and Bug Fixes
+
+* add `browserslist` to npm.txt ([#1328](https://github.com/nschonni/cspell-dicts/issues/1328)) ([5f9efd5](https://github.com/nschonni/cspell-dicts/commit/5f9efd5f1f973d09005db9e35f8279e702ac1c00))
+* add `dropzone` to npm.txt ([#1330](https://github.com/nschonni/cspell-dicts/issues/1330)) ([d586c8a](https://github.com/nschonni/cspell-dicts/commit/d586c8a366d54c3c5b244717de06cca245412ea5))
+* add `jszip` npm.txt ([#1329](https://github.com/nschonni/cspell-dicts/issues/1329)) ([8cee12f](https://github.com/nschonni/cspell-dicts/commit/8cee12f36c2a338642cecd603606070aad623e71))
+* add `pnpm` package manager ([#1335](https://github.com/nschonni/cspell-dicts/issues/1335)) ([e1b5f61](https://github.com/nschonni/cspell-dicts/commit/e1b5f619ff80108e177e80369baa147c98de04be))
+
+
+### Miscellaneous
+
+* release main ([#1320](https://github.com/nschonni/cspell-dicts/issues/1320)) ([ef96333](https://github.com/nschonni/cspell-dicts/commit/ef963333bea559bd4aa9ab5eb26c3fc4033acfb1))
+* release main ([#1334](https://github.com/nschonni/cspell-dicts/issues/1334)) ([e170947](https://github.com/nschonni/cspell-dicts/commit/e170947df0f94ce166ff4c9daac92392e4e6c71b))
+
 ## [3.1.2](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-npm@3.1.1...@cspell/dict-npm@3.1.2) (2022-08-07)
 
 
