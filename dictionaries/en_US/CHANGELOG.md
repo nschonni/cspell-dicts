@@ -3,6 +3,29 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.3.3](https://github.com/nschonni/cspell-dicts/compare/@cspell/dict-en_us-v2.3.2...@cspell/dict-en_us@2.3.3) (2022-08-21)
+
+
+### Updates and Bug Fixes
+
+* Add backtick to English dictionary ([#1351](https://github.com/nschonni/cspell-dicts/issues/1351)) ([38b97aa](https://github.com/nschonni/cspell-dicts/commit/38b97aab0e546c3d061fbfc05718535555f01e52))
+* add guillemet to en_GB and en_US ([1b76384](https://github.com/nschonni/cspell-dicts/commit/1b763844d16ea6ef765763f8b15693781d72c3c3))
+
+
+### Continuous Integration
+
+* Workflow Bot -- Build Dictionaries ([#1257](https://github.com/nschonni/cspell-dicts/issues/1257)) ([e6e4518](https://github.com/nschonni/cspell-dicts/commit/e6e4518e21770fa669173d89b68a32d7600f3914))
+* Workflow Bot -- Build Dictionaries ([#1352](https://github.com/nschonni/cspell-dicts/issues/1352)) ([b4f2454](https://github.com/nschonni/cspell-dicts/commit/b4f24543104c1bbd90646562816fc53c427fd797))
+
+
+### Miscellaneous
+
+* adjust the trie format to improve git storage ([#1371](https://github.com/nschonni/cspell-dicts/issues/1371)) ([1b91dc7](https://github.com/nschonni/cspell-dicts/commit/1b91dc7ff869ca1d7ece87910da9adce12504085))
+* do not store `.trie.gz` files. ([#1361](https://github.com/nschonni/cspell-dicts/issues/1361)) ([2de0b0d](https://github.com/nschonni/cspell-dicts/commit/2de0b0df4b8addfd69e2e6899c05f8b502799b7c))
+* force overwrite in prepare ([#1364](https://github.com/nschonni/cspell-dicts/issues/1364)) ([5eec47e](https://github.com/nschonni/cspell-dicts/commit/5eec47e223f1dd6370fcbc3c1b6b0361c92bbddf))
+* release main ([#1345](https://github.com/nschonni/cspell-dicts/issues/1345)) ([eb97588](https://github.com/nschonni/cspell-dicts/commit/eb97588036186663118e5cf70d8756c426714564))
+* release main ([#1358](https://github.com/nschonni/cspell-dicts/issues/1358)) ([7f0666a](https://github.com/nschonni/cspell-dicts/commit/7f0666a869ffeef44c755f30ec61b5a4043772d7))
+
 ## [2.3.2](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-en_us@2.3.1...@cspell/dict-en_us@2.3.2) (2022-08-19)
 
 

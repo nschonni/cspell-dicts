@@ -3,6 +3,24 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.0.12](https://github.com/nschonni/cspell-dicts/compare/@cspell/dict-companies-v2.0.11...@cspell/dict-companies@2.0.12) (2022-08-21)
+
+
+### Updates and Bug Fixes
+
+* `Mockito` and `Yext` to Companies ([#1326](https://github.com/nschonni/cspell-dicts/issues/1326)) ([9c699bc](https://github.com/nschonni/cspell-dicts/commit/9c699bc6d0a7b0ddbf36dbef5eb7cfd24e510124))
+* add `Swyftx` to Companies ([#1333](https://github.com/nschonni/cspell-dicts/issues/1333)) ([32c82c8](https://github.com/nschonni/cspell-dicts/commit/32c82c8fe71f6dd083cf0f3d95334032d6f4d88a))
+* Add several tech company names and their tools ([5648103](https://github.com/nschonni/cspell-dicts/commit/5648103e6f78b68a00f4ef80624335cf0a9e98c5))
+* add Street Side Software to companies ([8ee2b42](https://github.com/nschonni/cspell-dicts/commit/8ee2b42d9fae114cd2039431ed9d1732e5313cbc))
+
+
+### Miscellaneous
+
+* release main ([#1299](https://github.com/nschonni/cspell-dicts/issues/1299)) ([f4a35d6](https://github.com/nschonni/cspell-dicts/commit/f4a35d63e2fda4031434213f4bbe78c34917746d))
+* release main ([#1300](https://github.com/nschonni/cspell-dicts/issues/1300)) ([aabd3ee](https://github.com/nschonni/cspell-dicts/commit/aabd3ee644fc60f51b8fb3c2e7f4ad857d358ed3))
+* release main ([#1320](https://github.com/nschonni/cspell-dicts/issues/1320)) ([ef96333](https://github.com/nschonni/cspell-dicts/commit/ef963333bea559bd4aa9ab5eb26c3fc4033acfb1))
+* release main ([#1334](https://github.com/nschonni/cspell-dicts/issues/1334)) ([e170947](https://github.com/nschonni/cspell-dicts/commit/e170947df0f94ce166ff4c9daac92392e4e6c71b))
+
 ## [2.0.11](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-companies@2.0.10...@cspell/dict-companies@2.0.11) (2022-08-07)
 
 

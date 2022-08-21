@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.0.6](https://github.com/nschonni/cspell-dicts/compare/@cspell/dict-html-v3.0.5...@cspell/dict-html@3.0.6) (2022-08-21)
+
+
+### Updates and Bug Fixes
+
+* add Gamepad API ([2d3597e](https://github.com/nschonni/cspell-dicts/commit/2d3597e604499ee38460d1c1dc92f92f6530bee2))
+* add MathML tags ([#1355](https://github.com/nschonni/cspell-dicts/issues/1355)) ([17b159a](https://github.com/nschonni/cspell-dicts/commit/17b159ac8f13c4aff3c96a6ebcbb54d1476d07be))
+* added `nobr` entry ([#1369](https://github.com/nschonni/cspell-dicts/issues/1369)) ([9a6525c](https://github.com/nschonni/cspell-dicts/commit/9a6525c9cde8e1c9ade36c54019dbaf53e9eb5bc))
+
+
+### Miscellaneous
+
+* release main ([#1341](https://github.com/nschonni/cspell-dicts/issues/1341)) ([2e353aa](https://github.com/nschonni/cspell-dicts/commit/2e353aa88d58d2ce17e4c1e642f8e0dd1cbd6785))
+* release main ([#1356](https://github.com/nschonni/cspell-dicts/issues/1356)) ([8127580](https://github.com/nschonni/cspell-dicts/commit/812758059d604a44d4a0534a90c18f1c12c17729))
+* release main ([#1358](https://github.com/nschonni/cspell-dicts/issues/1358)) ([7f0666a](https://github.com/nschonni/cspell-dicts/commit/7f0666a869ffeef44c755f30ec61b5a4043772d7))
+
 ## [3.0.5](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-html@3.0.4...@cspell/dict-html@3.0.5) (2022-08-19)
 
 
