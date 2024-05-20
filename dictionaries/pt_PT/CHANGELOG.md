@@ -22,6 +22,13 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [3.0.2](https://github.com/nschonni/cspell-dicts/compare/@cspell/dict-pt-pt-v3.0.1...@cspell/dict-pt-pt@3.0.2) (2024-05-20)
+
+
+### Updates and Bug Fixes
+
+* Make license documentation consistent ([#2628](https://github.com/nschonni/cspell-dicts/issues/2628)) ([0dfc5e9](https://github.com/nschonni/cspell-dicts/commit/0dfc5e918d475a9694ce64bdc74c473d6097af62))
+
 ## [3.0.1](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-pt-pt@3.0.0...@cspell/dict-pt-pt@3.0.1) (2023-10-11)
 
 

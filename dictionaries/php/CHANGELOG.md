@@ -22,6 +22,19 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [4.0.8](https://github.com/nschonni/cspell-dicts/compare/@cspell/dict-php-v4.0.7...@cspell/dict-php@4.0.8) (2024-05-20)
+
+
+### Updates and Bug Fixes
+
+* [php] Add some vendor and package names ([#2836](https://github.com/nschonni/cspell-dicts/issues/2836)) ([2d6d4bd](https://github.com/nschonni/cspell-dicts/commit/2d6d4bd42087f7e0e413ef1f01dd2d601b0c6eb3))
+* Add some language terms for the "php" dict ([#2500](https://github.com/nschonni/cspell-dicts/issues/2500)) ([3db3e52](https://github.com/nschonni/cspell-dicts/commit/3db3e5271fa0e2b177b16b7df689db0a9441ebf2))
+* Workflow Bot -- Build Dictionaries ([#2502](https://github.com/nschonni/cspell-dicts/issues/2502)) ([9898793](https://github.com/nschonni/cspell-dicts/commit/98987935c99603c45ee6c50b1bf45b2ba5772efb))
+* Workflow Bot -- Build Dictionaries ([#2657](https://github.com/nschonni/cspell-dicts/issues/2657)) ([7e7190d](https://github.com/nschonni/cspell-dicts/commit/7e7190d1165246cf5fd85c58bd52531b6b722958))
+* Workflow Bot -- Build Dictionaries ([#2843](https://github.com/nschonni/cspell-dicts/issues/2843)) ([d430c85](https://github.com/nschonni/cspell-dicts/commit/d430c8564e2238615ebc0a83aeaa941a499b9360))
+* Workflow Bot -- Build Dictionaries ([#2982](https://github.com/nschonni/cspell-dicts/issues/2982)) ([28d4083](https://github.com/nschonni/cspell-dicts/commit/28d4083c238b330772186ff7bb25f8ace97e8e61))
+* Workflow Bot -- Build Dictionaries ([#3167](https://github.com/nschonni/cspell-dicts/issues/3167)) ([a94f73b](https://github.com/nschonni/cspell-dicts/commit/a94f73b4ff267e143d97208cf1c93b2b772bea51))
+
 ## [4.0.7](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-php@4.0.6...@cspell/dict-php@4.0.7) (2024-05-18)
 
 

@@ -22,6 +22,24 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [5.0.0](https://github.com/nschonni/cspell-dicts/compare/@cspell/dict-uk-ua-v4.0.1...@cspell/dict-uk-ua@5.0.0) (2024-05-20)
+
+
+### ⚠ BREAKING CHANGES
+
+* Update licenses for several dictionaries to match license of their sources ([#2627](https://github.com/nschonni/cspell-dicts/issues/2627))
+
+### Features
+
+* Update dictionary sources ([#2705](https://github.com/nschonni/cspell-dicts/issues/2705)) ([27ad9de](https://github.com/nschonni/cspell-dicts/commit/27ad9de120fc71bc1b9a2aacc4407c423aeee2fd))
+* Update licenses for several dictionaries to match license of their sources ([#2627](https://github.com/nschonni/cspell-dicts/issues/2627)) ([56a266a](https://github.com/nschonni/cspell-dicts/commit/56a266aafdcde83043b92022dd0ae187c1d53498))
+
+
+### Updates and Bug Fixes
+
+* add uk dictionary replacement map (`ʼ` -&gt; `'`) ([#3157](https://github.com/nschonni/cspell-dicts/issues/3157)) ([9f92fff](https://github.com/nschonni/cspell-dicts/commit/9f92fffe7ebb3cfdf3573163e7ab4f4262e4454f))
+* Workflow Bot -- Build Dictionaries ([#2707](https://github.com/nschonni/cspell-dicts/issues/2707)) ([2f4fb72](https://github.com/nschonni/cspell-dicts/commit/2f4fb72ad0b370c78bdbc19f38ee6a452e767010))
+
 ## [4.0.1](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-uk-ua@4.0.0...@cspell/dict-uk-ua@4.0.1) (2024-05-16)
 
 

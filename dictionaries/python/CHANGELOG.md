@@ -3,6 +3,16 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [4.1.12](https://github.com/nschonni/cspell-dicts/compare/@cspell/dict-python-v4.1.11...@cspell/dict-python@4.1.12) (2024-05-20)
+
+
+### Updates and Bug Fixes
+
+* [python] Add "djlint" term ([#2835](https://github.com/nschonni/cspell-dicts/issues/2835)) ([92a2686](https://github.com/nschonni/cspell-dicts/commit/92a2686401d73d77d81a2824e88ac8ac9ce57488))
+* Add "PYTHONHOME" to python dict ([#2697](https://github.com/nschonni/cspell-dicts/issues/2697)) ([a099929](https://github.com/nschonni/cspell-dicts/commit/a0999297967fd21639c9b167c5edac5d3ea60f64))
+* Add "venvs" to the python dict ([#2695](https://github.com/nschonni/cspell-dicts/issues/2695)) ([7b9d821](https://github.com/nschonni/cspell-dicts/commit/7b9d8218f6e7c5bbfc5a6fc97cd9727e2a0489e1))
+* add pyenv to python ([#2569](https://github.com/nschonni/cspell-dicts/issues/2569)) ([288176b](https://github.com/nschonni/cspell-dicts/commit/288176b43e92eb46d7decaf42a4078d5caf949dc))
+
 ## [4.1.11](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-python@4.1.10...@cspell/dict-python@4.1.11) (2023-12-25)
 
 

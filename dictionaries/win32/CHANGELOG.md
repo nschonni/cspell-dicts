@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.0.4](https://github.com/nschonni/cspell-dicts/compare/@cspell/dict-win32-v2.0.3...@cspell/dict-win32@2.0.4) (2024-05-20)
+
+
+### Updates and Bug Fixes
+
+* add whitespaces (plural) to dictionaries ([#2552](https://github.com/nschonni/cspell-dicts/issues/2552)) ([09e990a](https://github.com/nschonni/cspell-dicts/commit/09e990a724a7bad7db72cd43e9e374290b59b886))
+* Update README ([#2862](https://github.com/nschonni/cspell-dicts/issues/2862)) ([bd9a9db](https://github.com/nschonni/cspell-dicts/commit/bd9a9db2214ddebb32c621b94962be5c1a820e44))
+
 ## [2.0.3](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-win32@2.0.2...@cspell/dict-win32@2.0.3) (2023-12-30)
 
 

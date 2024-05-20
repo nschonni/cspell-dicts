@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.1.4](https://github.com/nschonni/cspell-dicts/compare/@cspell/dict-sql-v2.1.3...@cspell/dict-sql@2.1.4) (2024-05-20)
+
+
+### Updates and Bug Fixes
+
+* [sql] Add "InnoDB" term ([#2821](https://github.com/nschonni/cspell-dicts/issues/2821)) ([cd95717](https://github.com/nschonni/cspell-dicts/commit/cd95717d7054e0768335951cfbb87ff1c5ff8a97))
+* add foreignkey to sql dictionary ([#2631](https://github.com/nschonni/cspell-dicts/issues/2631)) ([8d8f5a6](https://github.com/nschonni/cspell-dicts/commit/8d8f5a6242f58050da7192ec19370ba146f56046))
+
 ## [2.1.3](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-sql@2.1.2...@cspell/dict-sql@2.1.3) (2023-12-20)
 
 

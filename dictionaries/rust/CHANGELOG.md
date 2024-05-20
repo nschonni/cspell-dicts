@@ -3,6 +3,19 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [4.0.4](https://github.com/nschonni/cspell-dicts/compare/@cspell/dict-rust-v4.0.3...@cspell/dict-rust@4.0.4) (2024-05-20)
+
+
+### Updates and Bug Fixes
+
+* add "msrv" to rust dictionary ([#2897](https://github.com/nschonni/cspell-dicts/issues/2897)) ([a662025](https://github.com/nschonni/cspell-dicts/commit/a662025a79c50c3e5a6b95bdaaa906ce2f6fcddc))
+* add `powf` and `powi` to rust dictionary ([#3131](https://github.com/nschonni/cspell-dicts/issues/3131)) ([84ab85e](https://github.com/nschonni/cspell-dicts/commit/84ab85ebb24aceab7b3485727105d280621f4d3f))
+* add `rustfmt` to rust dictionary ([#2896](https://github.com/nschonni/cspell-dicts/issues/2896)) ([c56c8a3](https://github.com/nschonni/cspell-dicts/commit/c56c8a3373447db8268f9f089599249f67aaac3a))
+* correct "BitAdd" to "BitAnd" in rust dictionary ([#2898](https://github.com/nschonni/cspell-dicts/issues/2898)) ([4d3e454](https://github.com/nschonni/cspell-dicts/commit/4d3e45428c5c4ce9a9676ef5184d90d7e7fb573b))
+* Workflow Bot -- Build Dictionaries ([#2901](https://github.com/nschonni/cspell-dicts/issues/2901)) ([1af708d](https://github.com/nschonni/cspell-dicts/commit/1af708d3cad81813206ff93b65d651e4735ec108))
+* Workflow Bot -- Build Dictionaries ([#2903](https://github.com/nschonni/cspell-dicts/issues/2903)) ([91d2ab0](https://github.com/nschonni/cspell-dicts/commit/91d2ab0be21ef8fd6e9b2e3c8790ba5a53a3cbd6))
+* Workflow Bot -- Build Dictionaries ([#3133](https://github.com/nschonni/cspell-dicts/issues/3133)) ([b8c7d1a](https://github.com/nschonni/cspell-dicts/commit/b8c7d1a1eab2b0756f8cc188f858568e89d5d95b))
+
 ## [4.0.3](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-rust@4.0.2...@cspell/dict-rust@4.0.3) (2024-05-02)
 
 

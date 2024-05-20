@@ -3,6 +3,19 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [6.0.0](https://github.com/nschonni/cspell-dicts/compare/@cspell/dict-node-v5.0.1...@cspell/dict-node@6.0.0) (2024-05-20)
+
+
+### ⚠ BREAKING CHANGES
+
+* Remove `cancelation` from node dict ([#3112](https://github.com/nschonni/cspell-dicts/issues/3112))
+
+### Updates and Bug Fixes
+
+* node - restore split behavior ([#3118](https://github.com/nschonni/cspell-dicts/issues/3118)) ([860a215](https://github.com/nschonni/cspell-dicts/commit/860a215ba1698c4bf9558324a46ecaf409a440ef))
+* Remove `cancelation` from node dict ([#3112](https://github.com/nschonni/cspell-dicts/issues/3112)) ([63f6e7d](https://github.com/nschonni/cspell-dicts/commit/63f6e7d283b4da93abad0c1f38f81db6bae9b5c7))
+* Workflow Bot -- Build Dictionaries ([#3113](https://github.com/nschonni/cspell-dicts/issues/3113)) ([c37b0ae](https://github.com/nschonni/cspell-dicts/commit/c37b0ae8b9413ee3ab794f2273c36a105aaa8ca6))
+
 ## [5.0.1](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-node@5.0.0...@cspell/dict-node@5.0.1) (2024-04-16)
 
 

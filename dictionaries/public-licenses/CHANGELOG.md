@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.0.7](https://github.com/nschonni/cspell-dicts/compare/@cspell/dict-public-licenses-v2.0.6...@cspell/dict-public-licenses@2.0.7) (2024-05-20)
+
+
+### Updates and Bug Fixes
+
+* Workflow Bot -- Build Dictionaries ([#2511](https://github.com/nschonni/cspell-dicts/issues/2511)) ([af0713c](https://github.com/nschonni/cspell-dicts/commit/af0713caa9f147e182c9025a950c1a4906d10ac6))
+* Workflow Bot -- Build Dictionaries ([#2620](https://github.com/nschonni/cspell-dicts/issues/2620)) ([726ccf8](https://github.com/nschonni/cspell-dicts/commit/726ccf82e0ab0a672d51ec4131184b9b007ee2f6))
+* Workflow Bot -- Build Dictionaries ([#2999](https://github.com/nschonni/cspell-dicts/issues/2999)) ([be5878e](https://github.com/nschonni/cspell-dicts/commit/be5878ec21728dfc833917959e549b93d9d0e9b1))
+
 ## [2.0.6](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-public-licenses@2.0.5...@cspell/dict-public-licenses@2.0.6) (2024-02-19)
 
 
