@@ -22,6 +22,21 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [3.2.0](https://github.com/nschonni/cspell-dicts/compare/@cspell/dict-el-v3.1.2...@cspell/dict-el@3.2.0) (2024-05-20)
+
+
+### Features
+
+* Update dictionary sources ([#2705](https://github.com/nschonni/cspell-dicts/issues/2705)) ([27ad9de](https://github.com/nschonni/cspell-dicts/commit/27ad9de120fc71bc1b9a2aacc4407c423aeee2fd))
+
+
+### Updates and Bug Fixes
+
+* Workflow Bot -- Build Dictionaries ([#2707](https://github.com/nschonni/cspell-dicts/issues/2707)) ([2f4fb72](https://github.com/nschonni/cspell-dicts/commit/2f4fb72ad0b370c78bdbc19f38ee6a452e767010))
+* Workflow Bot -- Build Dictionaries ([#3081](https://github.com/nschonni/cspell-dicts/issues/3081)) ([85c19d3](https://github.com/nschonni/cspell-dicts/commit/85c19d31d453be427a465d49d5cb6abdd7d818f0))
+* Workflow Bot -- Build Dictionaries ([#3083](https://github.com/nschonni/cspell-dicts/issues/3083)) ([e609fd5](https://github.com/nschonni/cspell-dicts/commit/e609fd54f051334974aa09b9ad62b049a80576fe))
+* Workflow Bot -- Build Dictionaries ([#3089](https://github.com/nschonni/cspell-dicts/issues/3089)) ([29fa5f1](https://github.com/nschonni/cspell-dicts/commit/29fa5f1055e50e75911e5915ad188db1aca28559))
+
 ## [3.1.2](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-el@3.1.1...@cspell/dict-el@3.1.2) (2024-04-09)
 
 

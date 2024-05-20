@@ -1,5 +1,18 @@
 # Change Log
 
+## [1.1.0](https://github.com/nschonni/cspell-dicts/compare/@cspell/dict-hu-hu-v1.0.1...@cspell/dict-hu-hu@1.1.0) (2024-05-20)
+
+
+### Features
+
+* Hungarian dictionary ([#2912](https://github.com/nschonni/cspell-dicts/issues/2912)) ([ba863f1](https://github.com/nschonni/cspell-dicts/commit/ba863f1c71665c9f095240b96a781f689a2f6338))
+
+
+### Updates and Bug Fixes
+
+* bundle .trie.gz instead of .trie ([#2935](https://github.com/nschonni/cspell-dicts/issues/2935)) ([1fc1f6b](https://github.com/nschonni/cspell-dicts/commit/1fc1f6bd236ae43f391aa21b397b84135bcb3737))
+* Workflow Bot -- Build Dictionaries ([#2925](https://github.com/nschonni/cspell-dicts/issues/2925)) ([f0fb5f7](https://github.com/nschonni/cspell-dicts/commit/f0fb5f76e1b87c20eae38b52dde1067d9375bcb1))
+
 ## [1.0.1](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-hu-hu@1.0.0...@cspell/dict-hu-hu@1.0.1) (2024-01-18)
 
 

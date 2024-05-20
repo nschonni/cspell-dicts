@@ -1,5 +1,20 @@
 # Changelog
 
+## [1.0.13](https://github.com/nschonni/cspell-dicts/compare/@cspell/dict-en-au-v1.0.12...@cspell/dict-en-au@1.0.13) (2024-05-20)
+
+
+### Updates and Bug Fixes
+
+* Make license documentation consistent ([#2628](https://github.com/nschonni/cspell-dicts/issues/2628)) ([0dfc5e9](https://github.com/nschonni/cspell-dicts/commit/0dfc5e918d475a9694ce64bdc74c473d6097af62))
+* Workflow Bot -- Build Dictionaries ([#2657](https://github.com/nschonni/cspell-dicts/issues/2657)) ([7e7190d](https://github.com/nschonni/cspell-dicts/commit/7e7190d1165246cf5fd85c58bd52531b6b722958))
+* Workflow Bot -- Build Dictionaries ([#2662](https://github.com/nschonni/cspell-dicts/issues/2662)) ([2115190](https://github.com/nschonni/cspell-dicts/commit/2115190bae015aedb8832bc8384088ed36cfce9a))
+* Workflow Bot -- Build Dictionaries ([#2735](https://github.com/nschonni/cspell-dicts/issues/2735)) ([ef0afb1](https://github.com/nschonni/cspell-dicts/commit/ef0afb1582802bd7705cb62ae8c6c6f939921b30))
+* Workflow Bot -- Build Dictionaries ([#2864](https://github.com/nschonni/cspell-dicts/issues/2864)) ([5e5568d](https://github.com/nschonni/cspell-dicts/commit/5e5568d503419eab84d56770823d4a683b40d4c9))
+* Workflow Bot -- Build Dictionaries ([#2963](https://github.com/nschonni/cspell-dicts/issues/2963)) ([e5b5682](https://github.com/nschonni/cspell-dicts/commit/e5b5682e112fe8f888a399016932972fc7763aa2))
+* Workflow Bot -- Build Dictionaries ([#2982](https://github.com/nschonni/cspell-dicts/issues/2982)) ([28d4083](https://github.com/nschonni/cspell-dicts/commit/28d4083c238b330772186ff7bb25f8ace97e8e61))
+* Workflow Bot -- Build Dictionaries ([#2999](https://github.com/nschonni/cspell-dicts/issues/2999)) ([be5878e](https://github.com/nschonni/cspell-dicts/commit/be5878ec21728dfc833917959e549b93d9d0e9b1))
+* Workflow Bot -- Build Dictionaries ([#3103](https://github.com/nschonni/cspell-dicts/issues/3103)) ([02c05e3](https://github.com/nschonni/cspell-dicts/commit/02c05e392198f3ac0b1cd9132d37b0c147405632))
+
 ## [1.0.12](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-en-au@1.0.11...@cspell/dict-en-au@1.0.12) (2024-04-13)
 
 

@@ -1,5 +1,12 @@
 # Change Log
 
+## [1.0.2](https://github.com/nschonni/cspell-dicts/compare/@cspell/dict-fsharp-v1.0.1...@cspell/dict-fsharp@1.0.2) (2024-05-20)
+
+
+### Updates and Bug Fixes
+
+* remove typo from fsharp dictionary ([#2667](https://github.com/nschonni/cspell-dicts/issues/2667)) ([2d5c077](https://github.com/nschonni/cspell-dicts/commit/2d5c0770f9fa7f712ca8b70d181c25768d30f909))
+
 ## [1.0.1](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-fsharp@1.0.0...@cspell/dict-fsharp@1.0.1) (2023-10-20)
 
 

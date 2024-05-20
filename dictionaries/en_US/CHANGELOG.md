@@ -3,6 +3,29 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [4.3.20](https://github.com/nschonni/cspell-dicts/compare/@cspell/dict-en_us-v4.3.19...@cspell/dict-en_us@4.3.20) (2024-05-20)
+
+
+### Updates and Bug Fixes
+
+* Add `comms` to en_us ([#2633](https://github.com/nschonni/cspell-dicts/issues/2633)) ([fcd6096](https://github.com/nschonni/cspell-dicts/commit/fcd60969d4d77c6cb466e3258abc9c8c8ace2c71))
+* Make license documentation consistent ([#2628](https://github.com/nschonni/cspell-dicts/issues/2628)) ([0dfc5e9](https://github.com/nschonni/cspell-dicts/commit/0dfc5e918d475a9694ce64bdc74c473d6097af62))
+* Remove `indispensible` ([#2536](https://github.com/nschonni/cspell-dicts/issues/2536)) ([8a0bbba](https://github.com/nschonni/cspell-dicts/commit/8a0bbba9d74912c71dc2f1dc16625fb29e4d30b3))
+* Remove `persistance` from en_US ([#3114](https://github.com/nschonni/cspell-dicts/issues/3114)) ([1d6abd7](https://github.com/nschonni/cspell-dicts/commit/1d6abd7ddeeb7f5fbe37141d8230b585742df145))
+* remove misspelling from English word list ([#2941](https://github.com/nschonni/cspell-dicts/issues/2941)) ([6e4eda9](https://github.com/nschonni/cspell-dicts/commit/6e4eda9b574ae66dfb97160b291f2b87d9fca30f))
+* Workflow Bot -- Build Dictionaries ([#2537](https://github.com/nschonni/cspell-dicts/issues/2537)) ([1c8c080](https://github.com/nschonni/cspell-dicts/commit/1c8c0806bb50d3af5918f9526dbeaaaff5632fee))
+* Workflow Bot -- Build Dictionaries ([#2632](https://github.com/nschonni/cspell-dicts/issues/2632)) ([c1217dd](https://github.com/nschonni/cspell-dicts/commit/c1217dd30ce2c5865931257e6f1aa78b4e34460d))
+* Workflow Bot -- Build Dictionaries ([#2657](https://github.com/nschonni/cspell-dicts/issues/2657)) ([7e7190d](https://github.com/nschonni/cspell-dicts/commit/7e7190d1165246cf5fd85c58bd52531b6b722958))
+* Workflow Bot -- Build Dictionaries ([#2662](https://github.com/nschonni/cspell-dicts/issues/2662)) ([2115190](https://github.com/nschonni/cspell-dicts/commit/2115190bae015aedb8832bc8384088ed36cfce9a))
+* Workflow Bot -- Build Dictionaries ([#2735](https://github.com/nschonni/cspell-dicts/issues/2735)) ([ef0afb1](https://github.com/nschonni/cspell-dicts/commit/ef0afb1582802bd7705cb62ae8c6c6f939921b30))
+* Workflow Bot -- Build Dictionaries ([#2864](https://github.com/nschonni/cspell-dicts/issues/2864)) ([5e5568d](https://github.com/nschonni/cspell-dicts/commit/5e5568d503419eab84d56770823d4a683b40d4c9))
+* Workflow Bot -- Build Dictionaries ([#2943](https://github.com/nschonni/cspell-dicts/issues/2943)) ([2baddf7](https://github.com/nschonni/cspell-dicts/commit/2baddf7271fd7922e6588f6a588d8a90de61ff74))
+* Workflow Bot -- Build Dictionaries ([#2963](https://github.com/nschonni/cspell-dicts/issues/2963)) ([e5b5682](https://github.com/nschonni/cspell-dicts/commit/e5b5682e112fe8f888a399016932972fc7763aa2))
+* Workflow Bot -- Build Dictionaries ([#2982](https://github.com/nschonni/cspell-dicts/issues/2982)) ([28d4083](https://github.com/nschonni/cspell-dicts/commit/28d4083c238b330772186ff7bb25f8ace97e8e61))
+* Workflow Bot -- Build Dictionaries ([#2999](https://github.com/nschonni/cspell-dicts/issues/2999)) ([be5878e](https://github.com/nschonni/cspell-dicts/commit/be5878ec21728dfc833917959e549b93d9d0e9b1))
+* Workflow Bot -- Build Dictionaries ([#3103](https://github.com/nschonni/cspell-dicts/issues/3103)) ([02c05e3](https://github.com/nschonni/cspell-dicts/commit/02c05e392198f3ac0b1cd9132d37b0c147405632))
+* Workflow Bot -- Build Dictionaries ([#3115](https://github.com/nschonni/cspell-dicts/issues/3115)) ([6d6e1ef](https://github.com/nschonni/cspell-dicts/commit/6d6e1efda472021fedc302b4aabffae677331ce3))
+
 ## [4.3.19](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-en_us@4.3.18...@cspell/dict-en_us@4.3.19) (2024-04-15)
 
 

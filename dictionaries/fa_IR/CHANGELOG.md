@@ -22,6 +22,17 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [5.0.0](https://github.com/nschonni/cspell-dicts/compare/@cspell/dict-fa-ir-v4.0.0...@cspell/dict-fa-ir@5.0.0) (2024-05-20)
+
+
+### ⚠ BREAKING CHANGES
+
+* Update licenses for several dictionaries to match license of their sources ([#2627](https://github.com/nschonni/cspell-dicts/issues/2627))
+
+### Features
+
+* Update licenses for several dictionaries to match license of their sources ([#2627](https://github.com/nschonni/cspell-dicts/issues/2627)) ([56a266a](https://github.com/nschonni/cspell-dicts/commit/56a266aafdcde83043b92022dd0ae187c1d53498))
+
 ## [4.0.0](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-fa-ir@3.0.0...@cspell/dict-fa-ir@4.0.0) (2023-11-12)
 
 

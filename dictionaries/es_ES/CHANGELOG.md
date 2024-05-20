@@ -30,6 +30,29 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [4.0.0](https://github.com/nschonni/cspell-dicts/compare/@cspell/dict-es-es-v3.0.0...@cspell/dict-es-es@4.0.0) (2024-05-20)
+
+
+### ⚠ BREAKING CHANGES
+
+* Use LGPL instead of GPL ([#3080](https://github.com/nschonni/cspell-dicts/issues/3080))
+
+### Features
+
+* Add a larger Spanish dictionary ([#3011](https://github.com/nschonni/cspell-dicts/issues/3011)) ([5e327bf](https://github.com/nschonni/cspell-dicts/commit/5e327bf60b9c2240e930d5a60ee8f78bd05e8cfb))
+* Update dictionary sources ([#2705](https://github.com/nschonni/cspell-dicts/issues/2705)) ([27ad9de](https://github.com/nschonni/cspell-dicts/commit/27ad9de120fc71bc1b9a2aacc4407c423aeee2fd))
+
+
+### Updates and Bug Fixes
+
+* Add new valid words: comparabilidad, pizarrón, videollamada, relevamiento ([#3075](https://github.com/nschonni/cspell-dicts/issues/3075)) ([fd524d9](https://github.com/nschonni/cspell-dicts/commit/fd524d9bd3bad0869c70bec69bb799aa03bcd3a8))
+* Add some missing terms to Spanish dictionary ([#2811](https://github.com/nschonni/cspell-dicts/issues/2811)) ([5eb67c0](https://github.com/nschonni/cspell-dicts/commit/5eb67c0bea478f779052e2b04ce79c034eb754e0))
+* Make license documentation consistent ([#2628](https://github.com/nschonni/cspell-dicts/issues/2628)) ([0dfc5e9](https://github.com/nschonni/cspell-dicts/commit/0dfc5e918d475a9694ce64bdc74c473d6097af62))
+* Use LGPL instead of GPL ([#3080](https://github.com/nschonni/cspell-dicts/issues/3080)) ([23e6558](https://github.com/nschonni/cspell-dicts/commit/23e655853b0a20a6265144920a48df080ac19235))
+* Workflow Bot -- Build Dictionaries ([#2707](https://github.com/nschonni/cspell-dicts/issues/2707)) ([2f4fb72](https://github.com/nschonni/cspell-dicts/commit/2f4fb72ad0b370c78bdbc19f38ee6a452e767010))
+* Workflow Bot -- Build Dictionaries ([#2817](https://github.com/nschonni/cspell-dicts/issues/2817)) ([ac1ca17](https://github.com/nschonni/cspell-dicts/commit/ac1ca17cefe8f678effeba41905fa2222253c8bf))
+* Workflow Bot -- Build Dictionaries ([#3077](https://github.com/nschonni/cspell-dicts/issues/3077)) ([7312f9c](https://github.com/nschonni/cspell-dicts/commit/7312f9ccaec6a742c5e35c35d78b0411575497cc))
+
 ## [3.0.0](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-es-es@2.4.0...@cspell/dict-es-es@3.0.0) (2024-04-03)
 
 

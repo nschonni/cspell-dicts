@@ -3,6 +3,33 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [5.2.0](https://github.com/nschonni/cspell-dicts/compare/@cspell/dict-cpp-v5.1.5...@cspell/dict-cpp@5.2.0) (2024-05-20)
+
+
+### Features
+
+* Reduce the size of the CPP dictionary ([#2876](https://github.com/nschonni/cspell-dicts/issues/2876)) ([f6a7c3c](https://github.com/nschonni/cspell-dicts/commit/f6a7c3c0fecdb4010feae766df56e0034e810b87))
+
+
+### Updates and Bug Fixes
+
+* Add back some terms that got missed ([#2884](https://github.com/nschonni/cspell-dicts/issues/2884)) ([34af92a](https://github.com/nschonni/cspell-dicts/commit/34af92aabd97768e7bfdeb99f24c5ac1f54426ab))
+* Add terms from [#556](https://github.com/nschonni/cspell-dicts/issues/556) ([#2634](https://github.com/nschonni/cspell-dicts/issues/2634)) ([3187e70](https://github.com/nschonni/cspell-dicts/commit/3187e7009bb9b7f31cf6aac64b346139414b392e))
+* Fix spelling of compatiblity in CPP word list (to compatibility) ([#2969](https://github.com/nschonni/cspell-dicts/issues/2969)) ([72eed78](https://github.com/nschonni/cspell-dicts/commit/72eed780b32b7ad50a106f95521ee75f11324bd0))
+* Fix spelling of subsytem in CPP word list (to subsystem) ([#2970](https://github.com/nschonni/cspell-dicts/issues/2970)) ([b44c424](https://github.com/nschonni/cspell-dicts/commit/b44c424eff09d92e8f7364be452379f5054fc34d))
+* Support adding additional terms to the CPP dict ([#2882](https://github.com/nschonni/cspell-dicts/issues/2882)) ([f858da5](https://github.com/nschonni/cspell-dicts/commit/f858da5481e721a38487b5647e922aff8b38d7eb))
+* Workflow Bot -- Build Dictionaries ([#2603](https://github.com/nschonni/cspell-dicts/issues/2603)) ([72a9dd6](https://github.com/nschonni/cspell-dicts/commit/72a9dd6798dc6d5f45c0d28f73b9c7b12967acc1))
+* Workflow Bot -- Build Dictionaries ([#2611](https://github.com/nschonni/cspell-dicts/issues/2611)) ([ea75827](https://github.com/nschonni/cspell-dicts/commit/ea75827937176ffd3b76aba6a013e4ac452452af))
+* Workflow Bot -- Build Dictionaries ([#2615](https://github.com/nschonni/cspell-dicts/issues/2615)) ([623513e](https://github.com/nschonni/cspell-dicts/commit/623513e50b4eb5accac6ad5c26747204cb9a5256))
+* Workflow Bot -- Build Dictionaries ([#2616](https://github.com/nschonni/cspell-dicts/issues/2616)) ([5a514d9](https://github.com/nschonni/cspell-dicts/commit/5a514d9ca1ffaa5e4fea089c571a2e61e46021db))
+* Workflow Bot -- Build Dictionaries ([#2657](https://github.com/nschonni/cspell-dicts/issues/2657)) ([7e7190d](https://github.com/nschonni/cspell-dicts/commit/7e7190d1165246cf5fd85c58bd52531b6b722958))
+* Workflow Bot -- Build Dictionaries ([#2740](https://github.com/nschonni/cspell-dicts/issues/2740)) ([f79bf45](https://github.com/nschonni/cspell-dicts/commit/f79bf4552b87c0e8826f9542358b84ede0ff32da))
+* Workflow Bot -- Build Dictionaries ([#2887](https://github.com/nschonni/cspell-dicts/issues/2887)) ([7e6a88b](https://github.com/nschonni/cspell-dicts/commit/7e6a88b7ade0656ce02d2aa0200a976848e711d5))
+* Workflow Bot -- Build Dictionaries ([#2965](https://github.com/nschonni/cspell-dicts/issues/2965)) ([6fe573a](https://github.com/nschonni/cspell-dicts/commit/6fe573a249fad8128bdc186e90900dc5edc98955))
+* Workflow Bot -- Build Dictionaries ([#2972](https://github.com/nschonni/cspell-dicts/issues/2972)) ([27100c0](https://github.com/nschonni/cspell-dicts/commit/27100c0aa654625b2ba3dfdf9785d341ee0d821a))
+* Workflow Bot -- Build Dictionaries ([#3167](https://github.com/nschonni/cspell-dicts/issues/3167)) ([a94f73b](https://github.com/nschonni/cspell-dicts/commit/a94f73b4ff267e143d97208cf1c93b2b772bea51))
+* Workflow Bot -- Build Dictionaries ([#3174](https://github.com/nschonni/cspell-dicts/issues/3174)) ([0f13b2b](https://github.com/nschonni/cspell-dicts/commit/0f13b2b983fc00f83789795a34f432b9d439152e))
+
 ## [5.1.5](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-cpp@5.1.4...@cspell/dict-cpp@5.1.5) (2024-05-19)
 
 

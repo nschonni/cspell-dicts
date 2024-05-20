@@ -3,6 +3,19 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [6.0.9](https://github.com/nschonni/cspell-dicts/compare/@cspell/dict-golang-v6.0.8...@cspell/dict-golang@6.0.9) (2024-05-20)
+
+
+### Updates and Bug Fixes
+
+* add "GOGC" to golang dictionary  ([#3153](https://github.com/nschonni/cspell-dicts/issues/3153)) ([f7ca301](https://github.com/nschonni/cspell-dicts/commit/f7ca301c0cd15880601bb33183c5be01f3d1804a))
+* Workflow Bot -- Build Dictionaries ([#2567](https://github.com/nschonni/cspell-dicts/issues/2567)) ([cfef8b2](https://github.com/nschonni/cspell-dicts/commit/cfef8b2ef34a301e33d725ba91ec9555b53d5927))
+* Workflow Bot -- Build Dictionaries ([#2657](https://github.com/nschonni/cspell-dicts/issues/2657)) ([7e7190d](https://github.com/nschonni/cspell-dicts/commit/7e7190d1165246cf5fd85c58bd52531b6b722958))
+* Workflow Bot -- Build Dictionaries ([#2735](https://github.com/nschonni/cspell-dicts/issues/2735)) ([ef0afb1](https://github.com/nschonni/cspell-dicts/commit/ef0afb1582802bd7705cb62ae8c6c6f939921b30))
+* Workflow Bot -- Build Dictionaries ([#3155](https://github.com/nschonni/cspell-dicts/issues/3155)) ([dcddd8a](https://github.com/nschonni/cspell-dicts/commit/dcddd8a1f7922c6b7666dca664c3c1f15f2e187f))
+* Workflow Bot -- Build Dictionaries ([#3167](https://github.com/nschonni/cspell-dicts/issues/3167)) ([a94f73b](https://github.com/nschonni/cspell-dicts/commit/a94f73b4ff267e143d97208cf1c93b2b772bea51))
+* Workflow Bot -- Build Dictionaries ([#3174](https://github.com/nschonni/cspell-dicts/issues/3174)) ([0f13b2b](https://github.com/nschonni/cspell-dicts/commit/0f13b2b983fc00f83789795a34f432b9d439152e))
+
 ## [6.0.8](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-golang@6.0.7...@cspell/dict-golang@6.0.8) (2024-05-19)
 
 

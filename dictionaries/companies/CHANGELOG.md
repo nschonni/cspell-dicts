@@ -3,6 +3,33 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.0.32](https://github.com/nschonni/cspell-dicts/compare/@cspell/dict-companies-v3.0.31...@cspell/dict-companies@3.0.32) (2024-05-20)
+
+
+### Updates and Bug Fixes
+
+* [companies] Add some company names ([#2837](https://github.com/nschonni/cspell-dicts/issues/2837)) ([d0c7542](https://github.com/nschonni/cspell-dicts/commit/d0c7542ebe253fe412cff7d0f4fc5ad387a6672c))
+* Add AdGuard to companies ([#2922](https://github.com/nschonni/cspell-dicts/issues/2922)) ([80ddf7c](https://github.com/nschonni/cspell-dicts/commit/80ddf7cf1158fff12c34c4651dd6b744f513faf0))
+* add Cloudinary and Egnyte to companies ([#2602](https://github.com/nschonni/cspell-dicts/issues/2602)) ([88a5d61](https://github.com/nschonni/cspell-dicts/commit/88a5d6136df21f65d284df8e2e94f2251a35ae3c))
+* add CSAIL to companies ([#2681](https://github.com/nschonni/cspell-dicts/issues/2681)) ([7c5dd5a](https://github.com/nschonni/cspell-dicts/commit/7c5dd5a76640350281d791071e9ad12d5dff8e48))
+* add CSAIL to companies ([#2687](https://github.com/nschonni/cspell-dicts/issues/2687)) ([e194b0c](https://github.com/nschonni/cspell-dicts/commit/e194b0cdf3d1d7457ef708f01d1a4bf6bb49b47f))
+* add DÜRR and HOMAG to companies ([#2904](https://github.com/nschonni/cspell-dicts/issues/2904)) ([6ad56da](https://github.com/nschonni/cspell-dicts/commit/6ad56daccf4976ca49f9824f5baaf4212aed5cdf))
+* add Fastify and pino to libraries; Yassir to companies ([#2933](https://github.com/nschonni/cspell-dicts/issues/2933)) ([1ed808b](https://github.com/nschonni/cspell-dicts/commit/1ed808b4206ef131ed74d936bd8b8440e925e6c8))
+* Add OpenAI to companies ([#2514](https://github.com/nschonni/cspell-dicts/issues/2514)) ([167e6ea](https://github.com/nschonni/cspell-dicts/commit/167e6eaa911305efdab3c3ba260c5942e42989b2))
+* add OpenDNS to companies ([#2575](https://github.com/nschonni/cspell-dicts/issues/2575)) ([cd70193](https://github.com/nschonni/cspell-dicts/commit/cd701938b1f3e55eda1138375b22a1495fa2069e))
+* add some missing words ([#2525](https://github.com/nschonni/cspell-dicts/issues/2525)) ([d6c2665](https://github.com/nschonni/cspell-dicts/commit/d6c26652e2d4200868f7ddf817a057f8e3625463))
+* add various terms ([#2734](https://github.com/nschonni/cspell-dicts/issues/2734)) ([1058a2c](https://github.com/nschonni/cspell-dicts/commit/1058a2c5a53bd9aa72958943062d4d454678c2f5))
+* Workflow Bot -- Build Dictionaries ([#2511](https://github.com/nschonni/cspell-dicts/issues/2511)) ([af0713c](https://github.com/nschonni/cspell-dicts/commit/af0713caa9f147e182c9025a950c1a4906d10ac6))
+* Workflow Bot -- Build Dictionaries ([#2537](https://github.com/nschonni/cspell-dicts/issues/2537)) ([1c8c080](https://github.com/nschonni/cspell-dicts/commit/1c8c0806bb50d3af5918f9526dbeaaaff5632fee))
+* Workflow Bot -- Build Dictionaries ([#2579](https://github.com/nschonni/cspell-dicts/issues/2579)) ([69b820a](https://github.com/nschonni/cspell-dicts/commit/69b820aacae3abdf41e9b6f16a8b35afd6838bad))
+* Workflow Bot -- Build Dictionaries ([#2603](https://github.com/nschonni/cspell-dicts/issues/2603)) ([72a9dd6](https://github.com/nschonni/cspell-dicts/commit/72a9dd6798dc6d5f45c0d28f73b9c7b12967acc1))
+* Workflow Bot -- Build Dictionaries ([#2684](https://github.com/nschonni/cspell-dicts/issues/2684)) ([e57b4e2](https://github.com/nschonni/cspell-dicts/commit/e57b4e20295dc7b1cc3207799711f7b4331042cc))
+* Workflow Bot -- Build Dictionaries ([#2735](https://github.com/nschonni/cspell-dicts/issues/2735)) ([ef0afb1](https://github.com/nschonni/cspell-dicts/commit/ef0afb1582802bd7705cb62ae8c6c6f939921b30))
+* Workflow Bot -- Build Dictionaries ([#2843](https://github.com/nschonni/cspell-dicts/issues/2843)) ([d430c85](https://github.com/nschonni/cspell-dicts/commit/d430c8564e2238615ebc0a83aeaa941a499b9360))
+* Workflow Bot -- Build Dictionaries ([#2908](https://github.com/nschonni/cspell-dicts/issues/2908)) ([7de1cd4](https://github.com/nschonni/cspell-dicts/commit/7de1cd4566022d6a84b7e259d6e339237abeff8f))
+* Workflow Bot -- Build Dictionaries ([#2923](https://github.com/nschonni/cspell-dicts/issues/2923)) ([32be666](https://github.com/nschonni/cspell-dicts/commit/32be666d99a24ddcfe881003e29f19a5f2a5abb0))
+* Workflow Bot -- Build Dictionaries ([#2938](https://github.com/nschonni/cspell-dicts/issues/2938)) ([8ee345f](https://github.com/nschonni/cspell-dicts/commit/8ee345f662d36f170d46fca959f6245de9c7d91c))
+
 ## [3.0.31](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-companies@3.0.30...@cspell/dict-companies@3.0.31) (2024-01-18)
 
 

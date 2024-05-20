@@ -14,6 +14,24 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [5.0.0](https://github.com/nschonni/cspell-dicts/compare/@cspell/dict-de-de-v4.0.0...@cspell/dict-de-de@5.0.0) (2024-05-20)
+
+
+### ⚠ BREAKING CHANGES
+
+* Use LGPL instead of GPL ([#3080](https://github.com/nschonni/cspell-dicts/issues/3080))
+
+### Features
+
+* Update dictionary sources ([#2705](https://github.com/nschonni/cspell-dicts/issues/2705)) ([27ad9de](https://github.com/nschonni/cspell-dicts/commit/27ad9de120fc71bc1b9a2aacc4407c423aeee2fd))
+
+
+### Updates and Bug Fixes
+
+* Make license documentation consistent ([#2628](https://github.com/nschonni/cspell-dicts/issues/2628)) ([0dfc5e9](https://github.com/nschonni/cspell-dicts/commit/0dfc5e918d475a9694ce64bdc74c473d6097af62))
+* Use LGPL instead of GPL ([#3080](https://github.com/nschonni/cspell-dicts/issues/3080)) ([23e6558](https://github.com/nschonni/cspell-dicts/commit/23e655853b0a20a6265144920a48df080ac19235))
+* Workflow Bot -- Build Dictionaries ([#2707](https://github.com/nschonni/cspell-dicts/issues/2707)) ([2f4fb72](https://github.com/nschonni/cspell-dicts/commit/2f4fb72ad0b370c78bdbc19f38ee6a452e767010))
+
 ## [4.0.0](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-de-de@3.2.0...@cspell/dict-de-de@4.0.0) (2024-04-03)
 
 

@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.0.4](https://github.com/nschonni/cspell-dicts/compare/@cspell/dict-k8s-v1.0.3...@cspell/dict-k8s@1.0.4) (2024-05-20)
+
+
+### Updates and Bug Fixes
+
+* add "kube" to k8s dictionary ([#3162](https://github.com/nschonni/cspell-dicts/issues/3162)) ([e3c592a](https://github.com/nschonni/cspell-dicts/commit/e3c592a459089d0df1d8fdb1f1fc1f017e4b2fd4))
+* Add terms from Kubernetes repo ([#2655](https://github.com/nschonni/cspell-dicts/issues/2655)) ([e4d8e94](https://github.com/nschonni/cspell-dicts/commit/e4d8e9434efb4610adebee086b9ba78379b05bc0))
+* Workflow Bot -- Build Dictionaries ([#2657](https://github.com/nschonni/cspell-dicts/issues/2657)) ([7e7190d](https://github.com/nschonni/cspell-dicts/commit/7e7190d1165246cf5fd85c58bd52531b6b722958))
+* Workflow Bot -- Build Dictionaries ([#3163](https://github.com/nschonni/cspell-dicts/issues/3163)) ([8e4a609](https://github.com/nschonni/cspell-dicts/commit/8e4a609fe11b56d1624fdd9cb4969ed5f37d6d18))
+
 ## [1.0.3](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-k8s@1.0.2...@cspell/dict-k8s@1.0.3) (2024-05-16)
 
 

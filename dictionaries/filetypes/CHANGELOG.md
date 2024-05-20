@@ -3,6 +3,16 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.0.5](https://github.com/nschonni/cspell-dicts/compare/@cspell/dict-filetypes-v3.0.4...@cspell/dict-filetypes@3.0.5) (2024-05-20)
+
+
+### Updates and Bug Fixes
+
+* Add several filetypes ([#2690](https://github.com/nschonni/cspell-dicts/issues/2690)) ([8738efe](https://github.com/nschonni/cspell-dicts/commit/8738efe8dd82ce13ac43ce00fb64562d1cb44457))
+* Add some common coding terms ([#3165](https://github.com/nschonni/cspell-dicts/issues/3165)) ([99a10bc](https://github.com/nschonni/cspell-dicts/commit/99a10bc436b1b1b6e1922b8a152aff33a6f09ada))
+* add various terms ([#2734](https://github.com/nschonni/cspell-dicts/issues/2734)) ([1058a2c](https://github.com/nschonni/cspell-dicts/commit/1058a2c5a53bd9aa72958943062d4d454678c2f5))
+* Workflow Bot -- Build Dictionaries ([#3167](https://github.com/nschonni/cspell-dicts/issues/3167)) ([a94f73b](https://github.com/nschonni/cspell-dicts/commit/a94f73b4ff267e143d97208cf1c93b2b772bea51))
+
 ## [3.0.4](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-filetypes@3.0.3...@cspell/dict-filetypes@3.0.4) (2024-05-18)
 
 
